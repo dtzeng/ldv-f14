@@ -4,5 +4,5 @@
 An implementation of a node and router for a simple network-on-chip component.
 
 ### USB
-An implementation of a derivative of the USB 2.0 standard.
+An implementation of a derivative of a USB 2.0 host.
 
